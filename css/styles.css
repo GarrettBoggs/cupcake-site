@@ -1,0 +1,29 @@
+html{
+    background: linear-gradient(pink, white)
+}
+
+body{
+  text-align: center;
+}
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
+
+#mainPic{
+  width: 400px;
+  height: auto;
+}
+
+.best{
+  margin-top: 200px;
+  border-style: solid;
+  padding: 10px;
+  border-width: 20px;
+}
+
+ul{
+  list-style-type: none;
+  margin-bottom: 100%;
+}
